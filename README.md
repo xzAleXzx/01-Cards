@@ -2,4 +2,4 @@
 
 **Slides**
 
-[Open Source](https://xzalexzx.github.io/Project1-Cards/)
+[Open Source](https://xzalexzx.github.io/01-Cards/)
